@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Edit Text</string>
+    <string name="number1_text">Enter number 1</string>
+    <string name="number2_text">Enter number 2</string>
+    <string name="add_button">+</string>
+    <string name="sub_button">-</string>
+    <string name="multiply_button">*</string>
+    <string name="division_button">/</string>
+    <string name="resultTextView">Result:</string>
+
+
+
+</resources>
